@@ -15,6 +15,7 @@ Bundle 'gmarik/vundle'
 "# Original repos on github
 "Bundle 'tpope/vim-fugitive'
 Bundle 'scrooloose/syntastic'
+Bundle 'chriskempson/base16-vim'
 "# Vim-scripts repos
 "Bundle 'L9'
 "Bundle 'FuzzyFinder'
@@ -38,8 +39,8 @@ filetype plugin indent on
 "
 "
 
-let base16colorspace=256
-"set background=dark
+"let base16colorspace=256
+set background=dark
 colorscheme base16-tomorrow
 
 set incsearch
