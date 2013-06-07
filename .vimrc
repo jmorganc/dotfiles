@@ -41,7 +41,9 @@ filetype plugin indent on
 
 "let base16colorspace=256
 set background=dark
-colorscheme base16-tomorrow
+"colorscheme base16-tomorrow
+colorscheme peachpuff
+syntax on
 
 set incsearch
 set ignorecase
